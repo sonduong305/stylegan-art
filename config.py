@@ -11,7 +11,7 @@
 # Paths.
 
 result_dir = 'results'
-data_dir = 'datasets'
+data_dir = 'motobike'
 cache_dir = 'cache'
 
 #----------------------------------------------------------------------------
